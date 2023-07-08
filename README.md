@@ -9,28 +9,28 @@ Welcome to our comprehensive guide on game hacking, where we explore the fascina
 1. Unleashing the Power: Exploring the Intricate World of Game Hacking
 2. What is Mount and Blade Warband?
 3. What is Memory and How to Manipulate Memory
-   3.1 Understanding Memory
-   3.2 What is Virtual Memory?
-   3.3 How Does Virtual Memory Work?
-   3.4 Benefits of Virtual Memory
-   3.5 Locating Memory Addresses
-   3.6 Modifying Memory
-   3.7 Pointers and Dynamic Memory Analysis
-4. Behind the Scenes: Understanding Memory Manipulation in Game Hacking
-   4.1 Tools for Memory Manipulation
-5. Cheat Engine: Harnessing the Power of Memory Editing
-   5.1 Download and Install Cheat Engine
-   5.2 Launch Cheat Engine and Select a Game Process
-   5.3 Perform Initial Value Scan
-   5.4 Refine the Search
-   5.5 Modify Memory Values
-   5.6 Save and Protect Your Hacks
-6. Using C++ for Memory Manipulation Code
-   6.1 Manipulating Our Money
-   6.2 Manipulating Character Skills
-7. Breaking the Code: Demystifying the Inner Workings of Game Hacking Techniques
-8. Ethical Considerations: The Responsible Approach to Game Hacking
-9. Evading Detection: Protecting Your Hacks from Anti-Cheat Systems
+4. Understanding Memory
+5. What is Virtual Memory?
+6. How Does Virtual Memory Work?
+7. Benefits of Virtual Memory
+8. Locating Memory Addresses
+9. Modifying Memory
+10. Pointers and Dynamic Memory Analysis
+11. Behind the Scenes: Understanding Memory Manipulation in Game Hacking
+12. Tools for Memory Manipulation
+13. Cheat Engine: Harnessing the Power of Memory Editing
+14. Download and Install Cheat Engine
+15. Launch Cheat Engine and Select a Game Process
+16. Perform Initial Value Scan
+17. Refine the Search
+18. Modify Memory Values
+19. Save and Protect Your Hacks
+20. Using C++ for Memory Manipulation Code
+21. Manipulating Our Money
+22. Manipulating Character Skills
+23. Breaking the Code: Demystifying the Inner Workings of Game Hacking Techniques
+24. Ethical Considerations: The Responsible Approach to Game Hacking
+25. Evading Detection: Protecting Your Hacks from Anti-Cheat Systems
 
 ## Unleashing the Power: Exploring the Intricate World of Game Hacking
 
