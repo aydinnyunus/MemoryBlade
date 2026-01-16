@@ -1,5 +1,7 @@
 # Game Hacking 101: Unleashing the Power of Memory Manipulation
 
+Blog Post: https://aydinnyunus.github.io/2026/01/03/game-hacking-101-memory-manipulation/
+
 ## Introduction
 
 Welcome to our comprehensive guide on game hacking, where we explore the fascinating world of gaining an edge in your favorite games through memory manipulation. In this blog post, we'll take you on a journey from a game hacking novice to a skilled pro, demystifying the inner workings of game hacking techniques and providing you with the essential tools, skills, and ethical considerations necessary for successful game hacking. So, fasten your seatbelts and get ready to dive deep into the captivating realm of game hacking!
